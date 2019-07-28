@@ -1,0 +1,14 @@
+Scenario: Clear browsing data
+
+User Storie: As an user, I'm able to clear my browser
+Description: You can control your history and other browsing data, like saved for, entries. Delete all your data or just some from a specific time.
+
+Title: Delete your browsing data
+
+Basic Flow: 
+1. On your computer, open Chrome.
+2. At the right, click More.
+3. Click More tools > Clear browsing data.
+4. Choose a time range, like Last hour or All time.
+5. Select the types of information you want remove.
+6. Click Clear data.
